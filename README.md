@@ -1,4 +1,5 @@
 # ExpansionRx-Challenge-Tutorial
+[![Logo](https://img.shields.io/badge/OSMF-OpenADMET-%23002f4a)](https://openadmet.org/)
 
 This repo provides a guide and example workflows to participate in the [**ExpansionRx-OpenADMET Blind Challenge**](https://openadmet.ghost.io/expansionrx-openadmet-blind-challenge/), a community-driven initiative to benchmark models for predicting **ADMET** (Absorption, Distribution, Metabolism, Excretion, Toxicity) properties in drug discovery on a unique real world dataset.
 
