@@ -1,10 +1,6 @@
 # ExpansionRx-Challenge-Tutorial
 
-# 💊 OpenADMET + ExpansionRx: ADMET Prediction Challenge  
-**Tutorial & Starter Kit for the Computational Blind Challenge**
-
-This repo provides a guide and example workflows to participate in the **OpenADMET + ExpansionRx ADMET Challenge**, a community-driven initiative to benchmark models for predicting **ADMET** (Absorption, Distribution, Metabolism, Excretion, Toxicity) properties in drug discovery.
-
+This repo provides a guide and example workflows to participate in the [**ExpansionRx-OpenADMET Blind Challenge**](https://openadmet.ghost.io/expansionrx-openadmet-blind-challenge/), a community-driven initiative to benchmark models for predicting **ADMET** (Absorption, Distribution, Metabolism, Excretion, Toxicity) properties in drug discovery on a unique real world dataset.
 
 In the tutorial notebook you will find an example workflow to train a simple set of models using the provided training data, and generate predictions for submission to the challenge platform on [Hugging Face](https://huggingface.co/spaces/openadmet/OpenADMET-ExpansionRx-Challenge).
 
