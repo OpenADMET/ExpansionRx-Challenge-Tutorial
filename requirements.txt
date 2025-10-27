@@ -1,0 +1,10 @@
+rdkit
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+numpy
+lightgbm
+tqdm
+useful-rdkit-utils
