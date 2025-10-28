@@ -1,2 +1,21 @@
 # ignore notebook checkpoints
 *.ipynb_checkpoints/
+submission.csv
+__pycache__/
+*.pyc
+.vscode/
+
+# environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# editor junk
+.ropeproject
+.idea/
+.spyderproject
+.spyproject
+# Mac .DS_Store
+.DS_Store
