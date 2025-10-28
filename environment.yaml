@@ -13,5 +13,7 @@ dependencies:
   - numpy
   - lightgbm
   - tqdm
+  - fsspec
+  - datasets
   - pip:
       - git+https://github.com/PatWalters/useful_rdkit_utils.git@master
